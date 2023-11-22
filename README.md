@@ -1,27 +1,5 @@
-# Assistant de direction
+# Developpeur Full Stack
 
-## À propos de moi
-Je suis très dévoué(e) et excellent(e) pour organiser les choses.
+## About me
 
-## Expérience
-
-- Optimisation des Processus de Bureau (2021-Présent)
-- Soutien Exécutif (2019-2021)
-- Optimisation des Processus Administratifs (2018-2019)
-- Gestion d'Événements d'Entreprise (2015-2018)
-- Gestion de l'Espace de Travail
-- Résolution de Problèmes
-- Analyse des Données Administrative
-- Gestion de la Logistique
-- Planification Stratégique
-
-## Compétences
-
-- Gestion du Temps
-- Communication
-
-## Liste des projets
-
-- Nouveau meuble 
-- Acheter outils
-- Modélisation 3D
+Repositories under development !
