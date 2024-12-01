@@ -1,4 +1,4 @@
-# Developpeur Full Stack
+# Full Stack Developer
 
 ## About me
 
